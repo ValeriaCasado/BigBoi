@@ -1,0 +1,19 @@
+{
+  "name": "tachanka",
+  "version": "1.0.0",
+  "description": "BigBoi discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValeriaCasado/BigBoi.git"
+  },
+  "author": "Valeria Casado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValeriaCasado/BigBoi/issues"
+  },
+  "homepage": "https://github.com/ValeriaCasado/BigBoi#readme"
+}
