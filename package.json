@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ValeriaCasado/BigBoi/issues"
   },
-  "homepage": "https://github.com/ValeriaCasado/BigBoi#readme"
+  "homepage": "https://github.com/ValeriaCasado/BigBoi#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
 }
